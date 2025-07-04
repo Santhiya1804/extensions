@@ -1,0 +1,13 @@
+
+Actions Taken:
+
+1.Opened chrome://extensions/
+2.Reviewed all extensions and their permissions
+3.Removed suspicious or unused extensions	-	Save-Data:on	
+4.Verified trusted extensions	-	Google Docs Offline,Save-Data:on
+
+Outcome:
+
+1.Browser now loads faster
+2.Lower RAM usage
+3.Safer and cleaner browsing experience
