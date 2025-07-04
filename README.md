@@ -1,4 +1,4 @@
-# 🔍 Browser Extension Audit
+
 
 ## 1. Open your browser’s extension/add-ons manager.
 ## 2. Review all installed extensions carefully.
